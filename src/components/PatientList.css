@@ -1,0 +1,36 @@
+.patient-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.patient-table th,
+.patient-table td {
+  border: 2px solid #ddd;
+  padding: 10px;
+  white-space: nowrap;
+}
+
+.patient-table th {
+  text-align: left;
+  background-color: #f2f2f2;
+}
+
+.patient-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.patient-table tr:hover {
+  background-color: #ddd;
+}
+.search-form {
+  margin-bottom: 20px;
+}
+
+.search-label {
+  margin-right: 10px;
+}
+
+.search-input {
+  margin-right: 10px;
+}
+

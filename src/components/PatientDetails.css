@@ -1,0 +1,74 @@
+.patient-details-container {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+.edit-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-label {
+  margin-bottom: 10px;
+}
+
+.form-input {
+  margin-top: 5px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+  max-width: 300px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-button {
+  margin-right: 10px;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.save-button {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.cancel-button {
+  background-color: #f44336;
+  color: white;
+}
+
+.edit-button {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  background-color: #008CBA;
+  color: white;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.patient-details p {
+  margin: 5px 0;
+}
+
+.patient-details ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.patient-details ul li {
+  margin-bottom: 5px;
+}
