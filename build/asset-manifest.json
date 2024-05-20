@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/patient_management/static/css/main.9340d135.css",
-    "main.js": "/patient_management/static/js/main.4a43f050.js",
-    "static/js/453.3b2e6732.chunk.js": "/patient_management/static/js/453.3b2e6732.chunk.js",
-    "index.html": "/patient_management/index.html",
-    "main.9340d135.css.map": "/patient_management/static/css/main.9340d135.css.map",
-    "main.4a43f050.js.map": "/patient_management/static/js/main.4a43f050.js.map",
-    "453.3b2e6732.chunk.js.map": "/patient_management/static/js/453.3b2e6732.chunk.js.map"
+    "main.css": "/Patient_Management/static/css/main.9340d135.css",
+    "main.js": "/Patient_Management/static/js/main.c20751e0.js",
+    "static/js/453.3b2e6732.chunk.js": "/Patient_Management/static/js/453.3b2e6732.chunk.js",
+    "index.html": "/Patient_Management/index.html",
+    "main.9340d135.css.map": "/Patient_Management/static/css/main.9340d135.css.map",
+    "main.c20751e0.js.map": "/Patient_Management/static/js/main.c20751e0.js.map",
+    "453.3b2e6732.chunk.js.map": "/Patient_Management/static/js/453.3b2e6732.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9340d135.css",
-    "static/js/main.4a43f050.js"
+    "static/js/main.c20751e0.js"
   ]
 }
